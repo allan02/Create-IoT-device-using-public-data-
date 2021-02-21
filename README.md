@@ -1,1 +1,1 @@
-# Create-IoT-device-using-public-data-
+# Create IoT device using public data
